@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.orange {
+    color: #FD9519;
+}
+
+.blue {
+    color: #2A0ACD;
+}
+
+.bg-orange {
+    background-color: #FD9519;
+}
